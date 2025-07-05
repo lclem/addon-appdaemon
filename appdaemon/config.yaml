@@ -12,6 +12,7 @@ arch:
 init: false
 homeassistant_api: true
 uart: true
+host_network: true
 ports:
   5050/tcp: 5050
 ports_description:
